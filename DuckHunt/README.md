@@ -19,6 +19,8 @@ java DuckHunt
 Necessary assets folder for the game must be inside of the src folder which is in DuckHunt folder.
 Location of assets folder: ...\DuckHunt\src
 
+* If there is no assets folder, unfortunately the game will not run!
+
 
 ## How to Play ##
 The game is very easy to play. First you will encounter a title screen which allows you to start or exit the game .
